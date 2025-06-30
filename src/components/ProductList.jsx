@@ -1,7 +1,7 @@
 // src/components/ProductList.jsx
 import ProductCard from './ProductCard';
-import spice1 from '../assets/spice1.jpg'; // replace with your image paths
-import spice2 from '../assets/spice2.jpg';
+import spice1 from '../assets/Chili powder.jpg'; // replace with your image paths
+import spice2 from '../assets/Tumeric.jpg';
 
 const products = [
   { name: 'Chili Powder', image: spice1, price: 'KES 150' },
